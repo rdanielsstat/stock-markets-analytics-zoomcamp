@@ -13,3 +13,4 @@ wheels/
 *.mp4
 
 *.parquet.brotli
+*.parquet
